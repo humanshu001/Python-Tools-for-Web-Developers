@@ -14,7 +14,3 @@
 ### 3. [Image to Base64](Tools/convertimg2base64.py)
 - This tool is used to convert image files to base64 format and copies it to your clipboard. It uses the `base64` library to convert the image to base64.
 > **Note:** This tool only supports `.jpg` and `.png` files.
-
-### 4. [HTML to PDF](Tools/converthtml2pdf.py)
-- This tool is used to convert html files to pdf files. It uses the `pdfkit` library to convert the html to pdf.
-> **Note:** This tool only supports `.html` files.
